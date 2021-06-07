@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^home$ index.html
+RewriteRule ^contacts$ contacts.html
+RewriteRule ^works$ works.html
